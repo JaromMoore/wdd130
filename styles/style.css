@@ -6,7 +6,7 @@ body{
 #wrapper{
     background-image: linear-gradient(to top, #C5EFCB, black);
     display: grid;
-    grid-template-rows: 100px 75px 500px 400px 100px;
+    grid-template-rows: 100px 75px 1fr 400px 100px;
 }
 
 header{
